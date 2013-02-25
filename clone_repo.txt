@@ -11,3 +11,4 @@ fatal: The remote end hung up unexpectedly
 
 See this page: https://help.github.com/articles/generating-ssh-keys
 
+It will help you set up a public key and show how to add it on github.
