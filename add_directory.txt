@@ -1,0 +1,4 @@
+To add a directory
+1. git add (file or directory)
+2. git commit -m "Different revalant message"
+3. git push -u origin master

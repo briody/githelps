@@ -1,0 +1,7 @@
+
+Initial Checkin
+1. git init (in the directory you want)
+2. git add (file or directory, automatically recursive)
+3. git commit -m "Put a message in quotes"
+4. git remote add origin https://github.com/briody/repo_name.git
+5. git push -u origin master
