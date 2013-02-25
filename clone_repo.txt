@@ -1,0 +1,3 @@
+Clone Your Repo (Like for another machine)
+
+1. git clone https://github.com/usename/repo_name.git
