@@ -1,0 +1,22 @@
+//To Branch
+git branch branch_name
+
+//Display Branches
+
+//all
+git branch -a
+//remote
+git branch -r
+
+//checkout branch
+git checkout branch_name
+
+//commit changes now in branch
+git commit -m "These are my changes"
+
+//push to origin
+git push origin origin/branch_name
+
+git pull origin HEAD_NAME
+
+

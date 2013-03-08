@@ -1,0 +1,16 @@
+//stash your current work
+git stash
+
+//show your current status
+git status
+
+//show stash lists
+git stash list
+
+//apply most recent stash
+git stash apply
+
+Apply a particular stash (ex stash@{2} )
+git stash apply stash@{2}
+
+
